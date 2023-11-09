@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import Counter from "./Counter";
 import Header from "./Header";
-import MoviePage from "./MovieComponenets/MoviePage";
+import MoviePage from "./MovieComponents/MoviePage";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
