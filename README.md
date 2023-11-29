@@ -1,3 +1,3 @@
-# Watchopedia
+# Watchopedia 
 
-movie list 
+list up the movie
